@@ -1,4 +1,4 @@
-Cronograma FadamiPay
+Cronograma  
 ===============
 ## Projeto interno da Fadami.
 Projeto interno que visa melhorar a gestão em relação as programações dos colaboradores da empresa.
