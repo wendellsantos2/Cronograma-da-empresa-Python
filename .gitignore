@@ -1,0 +1,5 @@
+*.rar
+CronogramaFadamiPay/
+Doc/
+**__pycache__/
+build/
